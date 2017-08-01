@@ -1,17 +1,11 @@
 title: Soop Project
 email: soopproject@gmail.com
-description: >
-  My knowledge library.
+description: "My knowledge library."
 baseurl: ""
 url: "http://soopproject.tk"
 twitter_username: soopproject
 github_username:  soopproject
-
-
-minima:
-	date_format: "%b %-d, %Y"
-
+minima: date_format: "%b %-d, %Y"
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
+gems: - jekyll-feed
