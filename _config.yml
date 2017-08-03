@@ -15,6 +15,12 @@ google:
  adsense_slot: 1147928700
  adsense_format: auto
 
+soopproject:
+ categories:
+  animation
+  programming
+  science
+
 minima: 
  date_format: "%b %-d, %Y"
 
