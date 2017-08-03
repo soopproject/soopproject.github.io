@@ -5,8 +5,19 @@ baseurl: ""
 url: "http://soopproject.tk"
 twitter_username: soopproject
 github_username:  soopproject
+
+disqus:
+	shortname: soopproject
+
+google:
+	tracking_id: UA-103606981-1
+	adsense_client: ca-pub-6535642318580350
+	adsense_slot: 1147928700
+	adsense_format: auto
+
 minima: 
  date_format: "%b %-d, %Y"
+
 markdown: kramdown
 theme: minima
 gems: 
