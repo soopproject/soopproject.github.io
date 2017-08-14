@@ -6,13 +6,13 @@ categories: es curiosities
 ---
 
 # Trepanación
-Antiguamente se realizaba con el objetivo de eliminar enfermedades consideradas de origen cerebral. En la actualidad se emplea como acceso quirúrgico en algunas operaciones de neurocirugía.
+Antiguamente se realizaba con el objetivo de eliminar enfermedades consideradas de origen cerebral. En la antigua Grecia, Hipócrates explicó el procedimiento para realizar una trepanación. Esta técnica consistía en sedar a la persona con hierbas o embriagándolo, le extirpaban la parte del hueso de la cabeza que estuviese en mal estado y le colocaban una placa de metal. Se desconoce si en realidad funcionaba pues en la actualidad no hay ningún texto que lo afirme.
 ![alt text](http://soopproject.tk/assets/img/trepanning.jpg "Trepanning")
 [más información.](https://en.wikipedia.org/wiki/Trepanning)
 
 # Lobotomía
 En este procedimiento se destruyen las vías nerviosas en los lóbulos frontales del cerebro (sin extirparlas). El procedimiento fue popularizado en los Estados Unidos por Walter Freeman, quien ni siquiera era cirujano y quien también inventó el procedimiento de la lobotomía del "picahielo": Freeman utilizó literalmente un picahielo y un mazo de caucho en vez del procedimiento quirúrgico estándar. En un acto espantoso, Freeman martilleaba el picahielo en el cráneo apenas sobre el conducto lacrimal y lo movía hasta cortar las conexiones entre el lóbulo frontal y el resto del cerebro.
-![alt text](http://soopproject.tk/assets/img/lobotomy.jpg "Children's Soothing Syrups")
+![alt text](http://soopproject.tk/assets/img/lobotomy.jpg "Lobotomy")
 [más información.](https://en.wikipedia.org/wiki/Lobotomy)
 
 # Calmante en Jarabe para niños (Children's Soothing Syrups)
