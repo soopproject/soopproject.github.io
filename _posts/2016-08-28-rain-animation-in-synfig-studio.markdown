@@ -9,10 +9,10 @@ categories: en animation
 To create a basic rain animation in Synfig Studio, you just need to follow the next steps.
 
 1. Create the background you want and a noisy gradient.
-![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-1.png "Step 1")
+![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-1.jpg "Step 1")
 
 2. Change one of the colors of the gradient to semitransparent white and the other in transparent.
-![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-2.png "Step 2")
+![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-2.jpg "Step 2")
 
 3. Edit the size of the noisy gradient until you find the size that you like. (the width must be smaller)
 ![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-3.gif "Step 3")

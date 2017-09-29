@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Animación de la lluvia en Synfig Studio"
+title:  "Animando una lluvia en Synfig Studio"
 date:   2016-08-28 22:23:32 -0400
 categories: es animation
 ---
@@ -9,10 +9,10 @@ categories: es animation
 Para crear una animación basica de la lluvia en Synfig Studio, solo debes seguir los siguientes pasos.
 
 1. Crear un fondo a elección y una gradiente ruidosa
-![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-1.png "Step 1")
+![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-1.jpg "Step 1")
 
 2. Cambiar una de los colores de la gradiente a un blanco semi-transparente y el otro transparente.
-![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-2.png "Step 2")
+![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-2.jpg "Step 2")
 
 3. Editar el tamaño de la gradiente ruidosa hasta encontrar el tamaño que más te agrade. (al ancho debe se mas pequeño)
 ![alt text](http://soopproject.tk/assets/img/synfigstudio-basic-rain-3.gif "Step 3")
